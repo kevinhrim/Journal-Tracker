@@ -3,6 +3,30 @@
 defined('ABSPATH') or die('Jog on!');
 
 /**
+ * Plugin Name: Journal Tracker
+ * Description: Allow registered users of your website to journal their weight and relevant physical activities. History can be displayed in both tables & charts.
+ * Version: 0.1
+ * Author: kevinhrim
+ * Author URI: https://www.mbhrim.com
+ * License: GPL2
+ * Text Domain: journal-tracker
+ */
+/*  Copyright 2018 MB Hrim Company, LLC and YeKen.uk
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License, version 2, as
+    published by the Free Software Foundation.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+*/
+/**
  * Plugin Name: Weight Loss Tracker
  * Description: Allow registered users of your website to track their weight and relevant body measurements. History can be displayed in both tables & charts.
  * Version: 7.0
