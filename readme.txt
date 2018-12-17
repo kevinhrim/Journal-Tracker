@@ -1,12 +1,11 @@
-﻿=== Weight Tracker ===
-Contributors: aliakro
+﻿=== Journal Tracker ===
+Contributors: kevinhrim
 Tags: weight, loss, lose, helper, bmi, body, mass, index, graph, track, stones, kg, table, data, plot, target, history, pounds, responsive, chart, measurements, cm, centimeters, inches, hip, waist, bicep, thigh
 Requires at least: 4.4.0
 Tested up to: 5.0.0
 Stable tag: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Donate Link: https://www.paypal.me/yeken
 
 Allow registered users of your website to track their weight, measurements, custom fields and much more! History can be displayed in both tables & charts. Support for BMI, BMR, Calorie Intake, Macronutrients and much more!
 
@@ -14,11 +13,11 @@ Allow registered users of your website to track their weight, measurements, cust
 
 = Demo =
 
-Use our free site for tracking your weight which shows off some of the plugin's feature: [TrackYourWeight.co.uk - Demo Site](https://www.trackyourweight.co.uk "TrackYourWeight.co.uk")
+Use our free site for tracking your weight which shows off some of the plugin's feature: 
 
 = Documentation =
 
-[Weight Tracker Website](https://weight.yeken.uk/ "Weight Tracker Website")
+
 
 = Core Features =
 
@@ -30,8 +29,6 @@ Support for US/UK date formats as well as Imperial and Metric measurements.
 
 For further information read our documentation:
 
-[Weight Tracker Website - Shortcode guide](https://weight.yeken.uk/shortcodes "Weight Tracker Website - Shortcode guide")
-
 = Pro Plus Version =
 
 * All of the features that come with a standard Pro license.
@@ -42,11 +39,10 @@ For further information read our documentation:
 * **Additional user preference fields**. Additional user preference fields and shortcodes to display them: Activity Level, Date of Birth and Gender.
 * **Awards**. Awards and Badges! Set awards for: BMI Change, BMI Equals, Weight Gain / Loss from start and Percentage of weight lost from start.
 
-[Read more about features](https://weight.yeken.uk/features/ "Read more about features")
 
 = Pro Version =
 
-* **Support for Gravity Forms.** Scan Gravity Form submissions for relevant Weight / Measurement fields and create a weight entry automatically. [Read more](https://weight.yeken.uk/gravity-forms/ "Read more")
+* **Support for Gravity Forms.** Scan Gravity Form submissions for relevant Weight / Measurement fields and create a weight entry automatically. 
 * **Admin can view, edit and delete user data.** Various tools for viewing user's graphs, tables of entries, BMI, targets, weight lost / gained stats and much more.
 * **CSV and JSON exports** for all data or a particular user.
 * **Measurements.** Support for recording measurements like Hip, Waist, Leg, Bicep, etc. Displayed on charts and tables.
@@ -71,30 +67,24 @@ For further information read our documentation:
 * **Better Tables.**. Data tables in front end and admin will support paging and sorting.
 * **Admin: Extra Settings**. Extra settings to customise the plugin will be added e.g. number of plot points on graph, rows per page, etc.', WE_LS_SLUG)
 
-[Read more about features](https://weight.yeken.uk/features/ "Read more about features")
 
 = Languages support =
 
 The plugin is written in English (UK) but has support for other languages such as French, Spanish, Dutch, Italian, Norwegian, Portuguese-Brazil, etc. For a list of supported languages please visit:
 
-[Weight Tracker Website - Supported Languages](https://weight.yeken.uk/weight-units-date-formats-languages/ "Weight Tracker Website - Supported Languages")
 
-Need a translation? Please read the following guide: [Translating the Weight Tracker plugin](https://weight.yeken.uk/translating-weight-loss-tracker-plugin/ "Translating the Weight Tracker plugin")
+Need a translation? Please read the following guide: 
 
 = Documentation =
 
 Need further help? Please visit the dedicated site:
 
-[Weight Tracker Website](https://weight.yeken.uk "Weight Tracker Website")
-
 = Donate =
-
-Paypal Donate: [www.paypal.me/yeken](https://www.paypal.me/yeken "www.paypal.me/yeken")
 
 == Installation ==
 
-1. Install "Weight Tracker" via the "Plugins" page in WordPress Admin (or download zip and upload).
-2. Setup the plugin in WordPress Admin panel by goto to Settings > Weight Tracker
+1. Install "Journal Tracker" via the "Plugins" page in WordPress Admin (or download zip and upload).
+2. Setup the plugin in WordPress Admin panel by goto to Settings > Journal Tracker
 3. Create a page that users will visit. Within the page content add the shortcode [wlt].
 4. Voila
 
@@ -102,7 +92,7 @@ Paypal Donate: [www.paypal.me/yeken](https://www.paypal.me/yeken "www.paypal.me/
 
 = Do you have any guides / documentation? =
 
-Yes! Please visit our dedicated site [Weight Tracker Website](https://weight.yeken.uk "Weight Tracker Website")
+Yes! Please visit our dedicated site 
 
 = Does it create any custom mySQL tables =
 
